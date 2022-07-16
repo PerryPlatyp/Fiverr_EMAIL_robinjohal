@@ -145,11 +145,4 @@ except:
     log.write("Login failed!!!\n")
     print("Login failed")
 
-
-
-
-
-
-
-
 input("Press Enter to exit...")
